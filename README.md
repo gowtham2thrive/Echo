@@ -1,8 +1,19 @@
 # Echo | Evidence-based Complaint & Hostel Oversight
 
-![Echo Banner](https://github.com/gowtham2thrive/echo-frontend/blob/main/src/assets/Echo%20-%20Evidence-based%20Complaint%20%26%20Hostel%20Oversight.svg
-)
+![Echo Banner](https://github.com/gowtham2thrive/echo-frontend/blob/main/src/assets/Echo%20-%20Evidence-based%20Complaint%20%26%20Hostel%20Oversight.svg)
+
 **Echo** is a modern, real-time hostel management platform designed to bridge the communication gap between students and administration. Built with **React** and **Supabase**, it features distinct portals for students and staff, utilizing a custom glassmorphism design system for a premium user experience.
+
+---
+
+### 🏆 Achievements
+**🥈 Second Place Winner** – National Technical Meet (Synergy 2026)
+
+<p align="center">
+  <img src="src/assets/Echo%20Hostel%20Management%20System%20–%20Second%20Place,%20National%20Technical%20Meet%20(Synergy%202026).jpg" 
+       alt="Echo Hostel Management System – Second Place, National Technical Meet (Synergy 2026)"
+       width="600">
+</p>
 
 ---
 
@@ -89,11 +100,10 @@
 
 ---
 
-## ⚙️ Installation & Setup
+### Clone the repository
 
-Follow these steps to run the project locally.
-
-### 1. Clone the repository
 ```bash
-git clone [https://github.com/your-username/echo-frontend.git](https://github.com/your-username/echo-frontend.git)
-cd echo-frontend
+git clone https://github.com/gowtham2thrive/Echo-Hostel_Management_System.git
+cd Echo-Hostel_Management_System
+
+```
