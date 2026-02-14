@@ -1,6 +1,8 @@
 # Echo | Evidence-based Complaint & Hostel Oversight
 
-![Echo Banner](https://github.com/gowtham2thrive/echo-frontend/blob/main/src/assets/Echo%20-%20Evidence-based%20Complaint%20%26%20Hostel%20Oversight.svg)
+![Echo Banner](https://github.com/gowtham2thrive/echo-frontend/blob/main/src/assets/banner.png)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](License.txt)
 
 **Echo** is a modern, real-time hostel management platform designed to bridge the communication gap between students and administration. Built with **React** and **Supabase**, it features distinct portals for students and staff, utilizing a custom glassmorphism design system for a premium user experience.
 
@@ -103,7 +105,7 @@
 ### Clone the repository
 
 ```bash
-git clone https://github.com/gowtham2thrive/Echo-Hostel_Management_System.git
-cd Echo-Hostel_Management_System
+git clone https://github.com/gowtham2thrive/Echo.git
+cd Echo
 
 ```
