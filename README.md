@@ -1,6 +1,6 @@
 # Echo | Evidence-based Complaint & Hostel Oversight
 
-![Echo Banner](https://github.com/gowtham2thrive/echo-frontend/blob/main/src/assets/banner.png)
+![Echo Banner](https://github.com/gowtham2thrive/echo-frontend/blob/main/src/assets/banner.svg)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](License.txt)
 
